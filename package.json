@@ -1,23 +1,16 @@
 {
-  "name": "jest-another-RPG",
+  "name": "rpg",
   "version": "1.0.0",
-  "description": "Create a RPG interactive game!",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Manjula85/jest-another-RPG.git"
-  },
   "keywords": [],
-  "author": "Manjula",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Manjula85/jest-another-RPG/issues"
-  },
-  "homepage": "https://github.com/Manjula85/jest-another-RPG#readme",
-  "devDependencies": {
-    "jest": "^26.6.3"
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
   }
 }
